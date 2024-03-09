@@ -3,6 +3,8 @@ Insta485 🕸️
 <h3>Description ✍️</h3>
 <p>A three-part project using a templated static site generator, server-side dynamic pages, and client-side dynamic pages to develop an Instagram clone.</p>
 
+![awdeorio account](awdeorio.jpg)
+
 
 <h2>Project 1: Templated Static Site Generator ⚙</h2>
 
