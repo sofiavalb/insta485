@@ -14,9 +14,9 @@ Insta485 🕸️
 - Shell scripting
 
 
-<h2>Project 2: Server-side Dynamic Pages</h2> ⚙️
+<h2>Project 2: Server-side Dynamic Pages 📃</h2>
 
-<h3>Description</h3> ✍️
+<h3>Description ✍️</h3>
 <p>Built an interactive website using server-side dynamic pages reusing templates from Project 1, rendering them on-demand when a user loads a page. New features include creating, updating, and deleting users, posts, comments, and likes.</p>
 
 ### Tools 🔨
@@ -26,9 +26,9 @@ Insta485 🕸️
 - SQL database
 
 
-<h2>Project 3: Client-side Dynamic Pages</h2> ⚙️
+<h2>Project 3: Client-side Dynamic Pages 📄</h2>
 
-<h3>Description</h3> ✍️
+<h3>Description ✍️</h3>
 <p>Built an application using client-side dynamic pages and a REST API. Reused server-side code from project 2, refactoring portions into a REST API. Wrote a client application in JavaScript that runs in the browser and makes AJAX calls to the REST API.</p>
 
 ### Tools 🔨
