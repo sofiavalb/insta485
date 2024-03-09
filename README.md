@@ -4,7 +4,7 @@ Insta485
 
 <h3>Project 1</h3> <h4>Templated Static Site Generator</h4>
 
-<h6>Description</h6>
+<h5>Description</h5>
 
 <div> Languages and Frameworks
 - HTML
