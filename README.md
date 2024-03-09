@@ -1,9 +1,9 @@
 Insta485 🕸️
 ===========================
 
-<h2>Project 1: Templated Static Site Generator</h2> ⚙️
+<h2>Project 1: Templated Static Site Generator ⚙</h2>
 
-<h3>Description</h3> ✍️
+<h3>Description ✍️</h3>
 <p>A python program that takes as input HTML templates, JSON data and misc. static files (like images and CSS) and generates as output a website of static content.</p>
 
 ### Tools 🔨
