@@ -5,7 +5,7 @@ Insta485
 <h4>Project 1: Templated Static Site Generator</h4>
 
 <h5>Description</h5>
-Languages and Frameworks
+###Languages and Frameworks
 - HTML
 - CSS
 - Jinja templates
