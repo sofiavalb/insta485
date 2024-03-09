@@ -13,6 +13,8 @@ Insta485 🕸️
 
 <h4>Follower post on homepage</h4>
 
+![homepage](chicken_post.png)
+
 
 <h2>Project 1: Templated Static Site Generator ⚙</h2>
 
