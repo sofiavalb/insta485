@@ -26,7 +26,7 @@ Insta485
 - SQL database
 
 
-<h4>Project 3: Client-side Dynamic Pages</h4>
+<h2>Project 3: Client-side Dynamic Pages</h2>
 
 <h3>Description</h3>
 <p>Built an application using client-side dynamic pages and a REST API. Reused server-side code from project 2, refactoring portions into a REST API. Wrote a client application in JavaScript that runs in the browser and makes AJAX calls to the REST API.</p>
