@@ -1,5 +1,16 @@
 Insta485
 ===========================
-Templated Static Site Generator, Serverside Dynamic Pages, and Clientside Dynamic Pages
+, Serverside Dynamic Pages, and Clientside Dynamic Pages
 
+<h3>Project 1</h3> <h4>Templated Static Site Generator</h4>
+
+<h6>Description</h6>
+
+<div> Languages and Frameworks
+- HTML
+- CSS
+- Jinja templates
+- Python backend
+- Shell scripting
+</div>
 
