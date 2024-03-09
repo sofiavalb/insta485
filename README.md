@@ -7,6 +7,10 @@ Insta485 🕸️
 
 ![awdeorio account](awdeorio.png)
 
+<h4>Discover page</h4>
+
+![discover](discover.png)
+
 
 <h2>Project 1: Templated Static Site Generator ⚙</h2>
 
