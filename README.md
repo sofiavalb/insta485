@@ -45,7 +45,7 @@ Insta485 🕸️
 <h2>Project 3: Client-side Dynamic Pages 📄</h2>
 
 <h3>Description ✍️</h3>
-<p>Built an application using client-side dynamic pages and a REST API. Reused server-side code from project 2, refactoring portions into a REST API. Wrote a client application in JavaScript using React that runs in the browser and makes AJAX calls to a REST API.</p>
+<p>Built an application using client-side dynamic pages and a REST API. Reused server-side code from project 2, refactoring portions into a REST API. Wrote a client application in JavaScript using React that runs in the browser and makes AJAX calls to a REST API. New features include updating with page reload, double tapping to like a post, and infinite scroll.</p>
 
 ### Tools 🔨
 - Client-side dynamic pages
