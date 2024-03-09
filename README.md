@@ -40,6 +40,7 @@ Insta485 🕸️
 - Flask
   - Sessions
 - SQL database
+- AWS
 
 
 <h2>Project 3: Client-side Dynamic Pages 📄</h2>
