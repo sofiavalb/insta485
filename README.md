@@ -1,7 +1,7 @@
 Insta485 🕸️
 ===========================
 <h3>Description ✍️</h3>
-<p>A three-part project using a templated static site generator, server-side dynamic pages, and client-side dynamic pages to develop an Instagram clone.</p>
+<p>A three-part project using a templated static site generator, server-side dynamic pages, and client-side dynamic pages to develop an Instagram clone. Deployed using AWS.</p>
 
 <h4>Account page</h4>
 
