@@ -32,7 +32,7 @@ Insta485 🕸️
 <h2>Project 2: Server-side Dynamic Pages 📃</h2>
 
 <h3>Description ✍️</h3>
-<p>Built an interactive website using server-side dynamic pages. Reused templates from Project 1, rendering them on-demand when a user loads a page. New features include creating, updating, and deleting users, posts, comments, and likes; Secure sign-in with cookies provided by Flask sessions.</p>
+<p>Built an interactive website using server-side dynamic pages. Reused templates from Project 1, rendering them on-demand when a user loads a page. New features include creating; updating; deleting users, posts, comments, and likes; and secure sign-in with cookies provided by Flask sessions.</p>
 
 ### Tools 🔨
 - Server-side dynamic pages
