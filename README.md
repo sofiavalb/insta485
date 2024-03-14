@@ -56,3 +56,6 @@ Insta485 🕸️
   - AJAX
 - REST APIs
 - Command line
+
+Licensed under a Creative Commons Attribution-NonCommercial 4.0 License
+Original Project written by Andrew DeOrio for EECS 485 F17
