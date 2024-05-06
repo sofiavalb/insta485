@@ -18,10 +18,10 @@ Insta485 🕸️
 
 <h2>Project 1: Templated Static Site Generator ⚙</h2>
 
-<h3>Description ✍️</h3>
+<h3>Description</h3>
 <p>A Python backend that takes in HTML templates, JSON data, and miscellaneous static files (such as images and CSS) and generates a website of static content.</p>
 
-### Tools 🔨
+### Tools
 - HTML
 - CSS
 - Jinja templates
@@ -31,10 +31,10 @@ Insta485 🕸️
 
 <h2>Project 2: Server-side Dynamic Pages 📃</h2>
 
-<h3>Description ✍️</h3>
+<h3>Description</h3>
 <p>Built an interactive website using server-side dynamic pages. Reused templates from Project 1, rendering them on-demand when a user loads a page. New features include creating; updating; deleting users, posts, comments, and likes; and secure sign-in with cookies provided by Flask sessions.</p>
 
-### Tools 🔨
+### Tools
 - Server-side dynamic pages
 - CRUD (Create, Read, Update, Delete)
 - Flask
@@ -45,10 +45,10 @@ Insta485 🕸️
 
 <h2>Project 3: Client-side Dynamic Pages 📄</h2>
 
-<h3>Description ✍️</h3>
+<h3>Description</h3>
 <p>Built an application using client-side dynamic pages and a REST API. Reused server-side code from project 2, refactoring portions into a REST API. Wrote a client application in JavaScript using React that runs in the browser and makes AJAX calls to a REST API. New features include updating with page reload, double tapping to like a post, and infinite scroll.</p>
 
-### Tools 🔨
+### Tools
 - Client-side dynamic pages
 - JavaScript
   - React
